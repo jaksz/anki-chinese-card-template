@@ -33,6 +33,10 @@ Tone 4 (Red): Red is an aggressive color, like yelling out an order/command, whi
 
 I have found out that adding symbols helps even a bit more, as the character becomes more memorable. You can remove them if you don't like them (have a look at the CSS file).
 
+## Why only have Hanzi and English card for each character? Why not also have a pronounciation and tone card?
+
+I am aware that conventional flashcard wisdom suggests to split "knowledge" into as small a unit as possible, which in this case would mean to create separate flashcards for the pronounciation and tone of a card. However, I found out that adding a separate pronounciation and tone card did not add any value, but rather **doubled** my workload. I never had problems remembering the pronounciation (and thanks to adding colors, remembering the tone was easy, too). Therefore, when reviewing the Hanzi and English cards, I also test myself on the pronounciation (and the tone).
+
 # Description
 
 Once you set this up in Anki, you can add new characters very quickly and they are automatically colored. A lot of steps are done for you automatically thanks to several plugins. The colorization and stylization of the characters takes place at the very end using JS and CSS.
