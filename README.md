@@ -59,7 +59,7 @@ I am aware that conventional flashcard wisdom suggests to split "knowledge" into
 1. Open the dialog box to add a new flashcard (shortcut key: "a").
 2. in "Hanzi", type the character or a word consisting of several characters.
 3. Chinese support automatically fills out "Meaning", "Reading" and "Color".
-4. Open the "index.html" file in the stroke-animations folder. Press CTRL+F (or CMD+F) and search the character you want a stroke animation for. Click on it to open the raw image file. Drag and drop the image file into "Stroke Order".
+4. Open the "index.html" file in the stroke-animations folder with your browser. Press CTRL+F (or CMD+F) and search the character you want a stroke animation for. Click on it to open the raw image file. Drag and drop the image file into "Stroke Order".
 5. Optionally, add "Notes" and "Meme" (Meme is supposed to be some kind of image that helps you remember the character better. You can have a look at https://hanzimemes.herokuapp.com for inspiration).
 6. Save the character and repeat the process for all characters.
 7. Open Anki's flashcard browser (shortcut key: "b") and select all newly added flashcards. Press CTRL+T (or CMD+T) to open the "AwesomeTTS" plugin. Use it to add computer-generated pronounciations for the characters. I'm using a Mac, this is what my settings look like:
