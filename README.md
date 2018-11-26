@@ -36,6 +36,8 @@ Tone 3 (Green): Green is the color for OK, like a checkmark, which is what the t
 
 Tone 4 (Red): Red is an aggressive color, like yelling out an order/command, which is what the fourth tone sounds like.
 
+**Tip**: If you use Pleco, customize the colors there to match your colors here in Anki.
+
 ## What are the symbols behind the reading, like the question mark and the exclamation mark?
 
 I have found out that adding those symbols helps even a bit more, as the character becomes more memorable. You can remove them if you don't like them (have a look at the JavaScript in the "Back template" file).
