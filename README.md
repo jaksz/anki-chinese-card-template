@@ -4,11 +4,11 @@ A card template for Anki for learning Chinese characters in a very efficient way
 
 Once you set this up in Anki, you can add new characters very quickly and they are automatically colored. A lot of steps are done for you automatically thanks to several plugins. The colorization and stylization of the characters takes place at the very end using JS and CSS.
 
-## Example for 4th and 2nd tone
+## Example for 4th and 3rd tone
 
 ![2](2.png?raw=true "2")
 
-## Example for 3rd and 1st tone
+## Example for 2nd and 1st tone
 
 ![4](4.png?raw=true "4")
 
